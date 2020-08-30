@@ -1,0 +1,7 @@
+colaboradores.db
+venv/
+templates/
+static/
+__pycache__/
+.idea/
+.idea
